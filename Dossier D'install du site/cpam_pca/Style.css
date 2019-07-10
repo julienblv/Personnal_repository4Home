@@ -1,0 +1,215 @@
+body{ 
+    background-color: #bfbfbf;
+    background-repeat:repeat;
+    
+}
+
+/***********************************************PAGE MODIFICATION ANNUAIRE**************************************************/
+.container-fluid{
+    background-color: aqua;
+    background-image: linear-gradient(#0000cc,#003399, #2952a3,#1a66ff); 
+}
+
+
+#h1{
+    color:white;
+}
+
+
+
+#deco{
+
+    text-align:right;
+
+}
+
+
+
+.liens{
+    text-align:left;
+
+}
+
+.lien-color{
+color:white;
+}
+
+
+.colotxttab{
+    color:white;
+}
+
+/*tableau*/
+.container{
+    
+    background-image: linear-gradient(#f2f2f2,#e6e6e6);
+   
+}
+
+
+.btn_btn-default_btn-lg{
+    color:grey;
+}
+
+
+/*Txt gros titre*/
+.txttitre{
+    color:white;
+    margin-left:42%;
+}
+
+
+.littlespace{
+    margin-left:35px;
+}
+
+/****************************************************************************************************/
+
+
+/***********************************************PAGE SHOW**************************************************/
+ 
+/* réutilisation de txttitre*/
+/*réutilisation de container-fluid*/
+
+.liens{
+    padding:0;
+    margin:0;
+    text-align:center;
+  
+}
+#liens{
+display:table-cell;
+width:500px;
+}
+
+
+
+.txttitre2{
+    color:white;
+    margin-left:43.5%;
+}
+
+.txtblock{
+    height:350px;
+    width:300px;
+    margin-top:100px;
+    text-align:center;
+    background-color:white;
+    margin-left:40%;
+    border-radius: 10px 10px 10px 10px;
+    transition: height 1.5s;
+    transition: width 1.5s;
+   
+}
+.txtblock:hover{
+    height:355px;
+    width:310px;
+}
+
+
+
+.button_center{
+    margin-top:40px;
+    text-align:center;
+}
+
+.txtzone{
+    
+    background-color:white;
+   
+}
+
+.txtalin{
+    margin-top:100px;
+}
+
+p:hover{
+    border-left: 5px solid black;
+}
+
+
+/****************************************************************************************************/
+
+
+/***********************************************PAGE MODIF**************************************************/
+
+
+.txtblock2{
+    height:500px;
+    width:400px;
+    margin-top:45px;
+    text-align:center;
+    background-color:white;
+    margin-left:37%;
+    border-radius: 10px 10px 10px 10px;
+    transition: height 1.5s;
+    transition: width 1.5s;
+}
+.txtblock2:hover{
+    height:505px;
+    width:410px;
+}
+
+.button_center2{
+    margin-top:20px;
+    margin-left:45.5%;
+}
+
+/****************************************************************************************************/
+
+
+/***********************************************PAGE LOGIN**************************************************/
+
+
+
+.txttitre3{
+    color:white;
+    margin-left:30%;
+}
+
+
+.txtblock3{
+    height:700px;
+    width:400px;
+    margin-top:50px;
+    text-align:center;
+    background-color:white;
+    margin-left:37%;
+    border-radius: 10px 10px 10px 10px;
+    transition: height 1.5s;
+    transition: width 1.5s;
+}
+.txtblock3:hover{
+    height:705px;
+    width:410px;
+}
+
+
+.password{
+    margin-top:-150px;
+}
+
+
+/****************************************************************************************************/
+
+
+/***********************************************PAGE Suppr**************************************************/
+
+.txtblock4{
+    height:350px;
+    width:300px;
+    margin-top:10px;
+    text-align:center;
+    background-color:white;
+    margin-left:40%;
+    border-radius: 10px 10px 10px 10px;
+    transition: height 1.5s;
+    transition: width 1.5s;
+}
+.txtblock4:hover{
+    height:355px;
+    width:310px;
+}
+
+
+
